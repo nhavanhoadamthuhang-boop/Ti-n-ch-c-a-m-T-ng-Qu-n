@@ -1,0 +1,6 @@
+{
+  "name": "Công Cụ Tri Thức Việt Nam 2026",
+  "description": "Bộ tiện ích tri thức tổng hợp, công cụ sáng tạo game Minecraft, SimCity, TheoTown, đồ họa 3D, văn hóa lịch sử Việt Nam và giả lập của tác giả Đàm Tường Quân.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
